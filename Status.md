@@ -12,7 +12,7 @@
 
 ## Lg V60 ThinQ
 
-<img align="right" src="Resources\Pictures\Lg-V60-ThinQ.jpg" width="500" alt="Preview">
+<img align="right" src="Resources\Pictures\Lg-V60-ThinQ.jpg" width="450" alt="Preview">
 
 **Codename: timelm** <br />
 **Maintainers: [Icesito68](https://github.com/Icesito68)** <br />
