@@ -11,7 +11,7 @@
 <details>
 <summary><b><strong>Snapdragon 8 Gen 1/8+ Gen 1 Devices</strong></b></summary>
 
-## Samsung Galaxy Tab S8 5G
+## Poco F5 Pro
 
 <img align="right" src="mondrian.png" width="500" alt="Preview">
 
