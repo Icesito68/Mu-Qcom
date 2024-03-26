@@ -17,7 +17,7 @@ Or [Mu-Samsung](https://github.com/sonic011gamer/Mu-Samsung), UEFI for Exynos De
 
 [Discord Server](https://discord.gg/Dx2QgMx7Sv)
 
-## [Status](https://github.com/Robotix22/Mu-Qcom/blob/main/Status.md)
+## [Status](Status.md)
 
 ## [Building](https://github.com/Robotix22/Mu-Qcom/blob/main/Building.md)
 

@@ -6,6 +6,97 @@
 |❌|**Not Working**|
 |❔|**Unknown**|
 
+## My Tests
+<details>
+<summary><b><strong>Snapdragon 865/865+/870 Devices</strong></b></summary>
+
+## Lg V60 ThinQ
+
+<img align="right" src="Resources\Pictures\Lg-V60-ThinQ.jpg" width="500" alt="Preview">
+
+**Codename: timelm** <br />
+**Maintainers: [Icesito68](https://github.com/Icesito68)** <br />
+
+### UEFI Status
+
+|Feature|Description|State|
+|:------|:----------|:---:|
+|Display||⚠️|
+|Touchscreen||❌|
+|Clocks||⚠️|
+|UFS||⚠️|
+|Buttons||⚠️|
+|USB||⚠️|
+|ACPI||⚠️|
+|Slot Switch||⚠️|
+
+### OS Status
+
+<table>
+<tr><th>Windows</th><th>Linux</th></tr>
+<tr><td>
+
+|Feature|Description|State|
+|:------|:----------|:---:|
+|Boot||⚠️|
+|UFS||⚠️|
+|Buttons||⚠️|
+|Proximity Sensor||❌|
+|Light Sensor||❌|
+|Accelerometer Sensor||❌|
+|Compass Sensor||❌|
+|Gyroscope Sensor||❌|
+|Fingerprint Sensor||❌|
+|NFC Sensor||❌|
+|Battery||❌|
+|USB||⚠️|
+|Charging||❌|
+|WLAN||❌|
+|CPU||⚠️|
+|Touchscreen||❌|
+|Bluetooth||❌|
+|GPS||❌|
+|Speakers||❌|
+|Microphone||❌|
+|GPU||❌|
+|Camera||❌|
+|Mobile Data||❌|
+|Display||⚠️|
+|Vibration||❌|
+
+</td><td>
+
+|Feature|Description|State|
+|:------|:----------|:---:|
+|Boot||❌|
+|UFS||❌|
+|Buttons||❌|
+|Proximity Sensor||❌|
+|Light Sensor||❌|
+|Accelerometer Sensor||❌|
+|Compass Sensor||❌|
+|Gyroscope Sensor||❌|
+|Fingerprint Sensor||❌|
+|NFC Sensor||❌|
+|Battery||❌|
+|USB||❌|
+|Charging||❌|
+|WLAN||❌|
+|CPU||❌|
+|Touchscreen||❌|
+|Bluetooth||❌|
+|GPS||❌|
+|Speakers||❌|
+|Microphone||❌|
+|GPU||❌|
+|Camera||❌|
+|Mobile Data||❌|
+|Display||❌|
+|Vibration||❌|
+
+</td></tr> </table>
+</details>
+
 ## Active Supported Devices
 
 <details>
