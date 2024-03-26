@@ -13,7 +13,7 @@
 
 ## Poco F5 Pro
 
-<img align="right" src="mondrian.png" width="500" alt="Preview">
+<img align="right" src="Resources\Pictures\Poco-F5-Pro.jpg" width="500" alt="Preview">
 
 **Codename: mondrian** <br />
 **Maintainers: [Icesito68](https://github.com/Icesito68)** <br />
@@ -67,7 +67,6 @@
 |Mobile Data||❌|
 |Display||⚠️|
 |Vibration||❌|
-|S Pen||❌|
 
 </td><td>
 
@@ -99,7 +98,6 @@
 |Mobile Data||❌|
 |Display||❌|
 |Vibration||❌|
-|S Pen||❌|
 
 </td></tr> </table>
 
