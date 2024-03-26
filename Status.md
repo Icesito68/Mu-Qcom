@@ -7,6 +7,106 @@
 |❔|**Unknown**|
 
 ## My Tests
+
+<details>
+<summary><b><strong>Snapdragon 8 Gen 1/8+ Gen 1 Devices</strong></b></summary>
+
+## Samsung Galaxy Tab S8 5G
+
+<img align="right" src="mondrian.png" width="500" alt="Preview">
+
+**Codename: mondrian** <br />
+**Maintainers: [Icesito68](https://github.com/Icesito68)** <br />
+**Contibuters: None** <br />
+**Tester: None**
+
+### UEFI Status
+
+|Feature|Description|State|
+|:------|:----------|:---:|
+|Display||⚠️|
+|Touchscreen||❌|
+|Clocks||⚠️|
+|UFS||⚠️|
+|Buttons||⚠️|
+|USB||⚠️|
+|SD Card||❌|
+|ACPI||⚠️|
+
+### OS Status
+
+<table>
+<tr><th>Windows</th><th>Linux</th></tr>
+<tr><td>
+
+|Feature|Description|State|
+|:------|:----------|:---:|
+|Boot||⚠️|
+|UFS||⚠️|
+|SD Card||❌|
+|Buttons||❌|
+|Proximity Sensor||❌|
+|Light Sensor||❌|
+|Accelerometer Sensor||❌|
+|Compass Sensor||❌|
+|Gyroscope Sensor||❌|
+|Fingerprint Sensor||❌|
+|Hall Sensor||❌|
+|Battery||❌|
+|USB||❌|
+|Charging||❌|
+|WLAN||❌|
+|CPU|Only One Core working right now|⚠️|
+|Touchscreen||❌|
+|Bluetooth||❌|
+|GPS||❌|
+|Speakers||❌|
+|Microphone||❌|
+|GPU||❌|
+|Camera||❌|
+|Mobile Data||❌|
+|Display||⚠️|
+|Vibration||❌|
+|S Pen||❌|
+
+</td><td>
+
+|Feature|Description|State|
+|:------|:----------|:---:|
+|Boot||❌|
+|UFS||❌|
+|SD Card||❌|
+|Buttons||❌|
+|Proximity Sensor||❌|
+|Light Sensor||❌|
+|Accelerometer Sensor||❌|
+|Compass Sensor||❌|
+|Gyroscope Sensor||❌|
+|Fingerprint Sensor||❌|
+|Hall Sensor||❌|
+|Battery||❌|
+|USB||❌|
+|Charging||❌|
+|WLAN||❌|
+|CPU||❌|
+|Touchscreen||❌|
+|Bluetooth||❌|
+|GPS||❌|
+|Speakers||❌|
+|Microphone||❌|
+|GPU||❌|
+|Camera||❌|
+|Mobile Data||❌|
+|Display||❌|
+|Vibration||❌|
+|S Pen||❌|
+
+</td></tr> </table>
+
+  </summary>
+</details>
+
+
 <details>
 <summary><b><strong>Snapdragon 865/865+/870 Devices</strong></b></summary>
 
@@ -16,6 +116,8 @@
 
 **Codename: timelm** <br />
 **Maintainers: [Icesito68](https://github.com/Icesito68)** <br />
+**Contibuters: None** <br />
+**Tester: None**
 
 ### UEFI Status
 
